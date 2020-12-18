@@ -1,0 +1,15 @@
+header {
+	text-align: center;
+	color: #5c1e2f;
+}
+
+#navbar1 {
+	margin: 0%;
+	padding: 1rem;
+	padding-bottom: 2rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	overflow: hidden;
+	background-color: #ffeaf0;
+}

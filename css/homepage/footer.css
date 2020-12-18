@@ -1,0 +1,17 @@
+footer {
+	text-align: center;
+	font-size: small;
+	font: outline;
+	font-family: cursive;
+	background-color: #ffeaf0;
+	padding: 10px;
+}
+
+.form {
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 2em;
+}

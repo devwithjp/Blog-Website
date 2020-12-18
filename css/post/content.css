@@ -1,0 +1,56 @@
+.date {
+	text-align: center;
+	margin-left: 20px;
+	font-size: smaller;
+	text-shadow: bisque;
+	color: #ff8bab;
+	font-style: italic;
+}
+
+.container {
+	padding: 2%;
+	margin: 4px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: black;
+}
+
+@media (min-width: 800px) {
+	body {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.container {
+		padding: 2%;
+		margin: 4px;
+		font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+		color: black;
+		width: 800px;
+		align-self: center;
+	}
+}
+
+h3 {
+	color: #5c1e2f;
+}
+
+#articl {
+	font-size: smaller;
+	color: #ff8bab;
+	font-style: oblique;
+}
+
+#last_para {
+	font-size: medium;
+	font-style: oblique;
+	margin: 2em;
+}
+
+h4 {
+	color: #5c1e2f;
+}
+
+#fig1 {
+	border-radius: 2em;
+	width: 100%;
+}

@@ -1,0 +1,14 @@
+@import "./header.css";
+@import "./card.css";
+@import "./footer.css";
+
+body {
+	margin: 0%;
+}
+
+#topic {
+	padding: 0%;
+	margin: 0;
+	text-decoration: underline;
+	color: rgb(0, 0, 0);
+}
